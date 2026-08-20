@@ -1,3 +1,5 @@
+|[简中](https://github.com/Anan-up/message-board/blob/main/README.md)|[文言](https://github.com/Anan-up/message-board/blob/main/README_Classical_Chinese.md)|
+
 # 从零搭建一个功能完备的留言板网站
 
 > 一份完整的部署指南，包含源码、配置说明和常见问题排查
