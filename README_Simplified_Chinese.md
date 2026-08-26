@@ -1838,3 +1838,6 @@ sudo cp /var/www/your_domain/messages.db /backup/messages_$(date +%Y%m%d).db
 - 接入 CDN 加速静态资源
 - 增加用户注册登录系统
 
+## 许可证
+
+[MIT](LICENSE)
