@@ -1840,3 +1840,7 @@ sudo cp /var/www/your_domain/messages.db /backup/messages_$(date +%Y%m%d).db
 - 加郵件通知新留言
 - 接入 CDN 以加速靜態資源
 - 增用戶註冊登錄之系統
+
+## 版權
+
+[MIT](LICENSE)
