@@ -1837,3 +1837,7 @@ You can continue customizing it to suit your needs, for example:
 - Add email notifications for new messages
 - Use a CDN to speed up static assets
 - Add a user registration/login system
+
+## License
+
+[MIT](LICENSE)
