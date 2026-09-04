@@ -1,4 +1,4 @@
-[English](https://github.com/Anan-up/message-board/blob/main/README.md) | [简体中文](https://github.com/Anan-up/message-board/blob/main/README_Simplified_Chinese.md) | [繁体中文](https://github.com/Anan-up/message-board/blob/main/README_Classical_Chinese.md)
+[English](README.md) | [简体中文](README_Simplified_Chinese.md) | [繁體中文](README_Classical_Chinese.md)
 
 # 从零搭建一个功能完备的留言板网站
 
